@@ -53,9 +53,7 @@
 			</nav>
 			<div class="jumbotron">
 				<div class="container text-center">
-					<h1 class=""><i class="glyphicon glyphicon-cloud"></i> Selamat Datang <i class="glyphicon glyphicon-cloud"></i></h1>
-					
-					bs3-nav
+					<h1 class=""><i class="glyphicon glyphicon-cloud"></i> Selamat Datang <i class="glyphicon glyphicon-cloud"></i></h1>					
 				</div>
 			</div>
 			<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
